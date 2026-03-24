@@ -1,4 +1,4 @@
- def format_linter_error(error: dict) -> dict:
+def format_linter_error(error: dict) -> dict:
     """
     Преобразует одну ошибку из формата линтера в плоский словарь.
     """
